@@ -18,7 +18,8 @@
 - 🌐 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Redux`
 - ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
 - 🧰 Dev Tools: `Vite`, `Webpack`, `Axios`, `Figma`
-
+  
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -26,7 +27,7 @@
 ![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techtheravibaghel&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtheravibaghel&layout=compact&theme=radical)
-
+-->
 ---
 
 ### 🔗 Connect with me
