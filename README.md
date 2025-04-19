@@ -7,7 +7,7 @@
 🌱 I’m learning **Next.js**, **Redux Toolkit**, and **Cloud Integrations**  
 👯 I’m looking to collaborate on **open-source frontend projects**  
 💬 Ask me about **React, Tailwind, Git, or web optimization**  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravi-baghel)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/techtheravibaghel)  
 ⚡ Fun fact: I enjoy turning UI mockups into pixel-perfect designs!
 
 ---
